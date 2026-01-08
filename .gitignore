@@ -1,0 +1,7 @@
+.idea/
+*.iml
+out/
+target/
+*.class
+.DS_Store
+javafx-sdk-21.0.2/
